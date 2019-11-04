@@ -50,14 +50,14 @@ main {
   width: 504px;
 }
 
-article {
+section {
   background-image: url('../images/frame.png');
   background-size: contain;
   background-repeat: no-repeat;
   padding: 30px 30px 0 30px;
   margin-top: 0px;
 }
-article h2 {
+section h2 {
   width: 250px;
   padding: 0;
   margin: 10px 0px 15px 22px;
@@ -84,7 +84,8 @@ main p {
   margin-top: 32px;
 }
 
-aside {
+figure {
+  margin: 0;
   float: left;
   padding: 110px 0 0 20%;
 }
