@@ -84,7 +84,8 @@ main p {
   margin-top: 32px;
 }
 
-aside {
+figure {
+  margin: 0;
   float: left;
   padding: 110px 0 0 20%;
 }
